@@ -11,6 +11,8 @@
 
 **Version note:** The OWASP web application list below uses **OWASP Top 10:2025**, the current published list verified for these notes. Security controls are contextual, not guarantees.
 
+**Expanded guides:** Sections 5, 6, and 7 now have [separate detailed guides and a Top 50 cybersecurity interview answer book](EY_Senior_Analyst_Prep/README.md), available as Word documents and editable Markdown.
+
 ---
 
 # 1. Operating Systems
